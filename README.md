@@ -11,7 +11,15 @@
 - Vue.js, Angular.js
 - PostgreSQL
 
-While I won an award for my project, I'm a novice in this field, so I will focus on filling my repo with silly and practical project for now.
+### Education
+- King Mongkut's University of Technology Thonburi - Production Engineering department (2021-2025)
+- Suankularb Wittayalai School - English Program (2018-2021)
+
+### Award
+- 3rd place in Sustainable Bioeconomy and Smart Healthcare - KMUTT Project Day 2025
+- 2nd place in Project Contest for Sustainable Future - Engineering Expo 2025 (hosted by Engineering Institute of Thailand)
+
+While I won an award for my project (which I won't make my repo public), I'm a novice in this field. So I will focus on flooding my repo with both silly and practical projects for now.
 <!--
 **dwisarut/dwisarut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
