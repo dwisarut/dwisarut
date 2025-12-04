@@ -1,17 +1,18 @@
-## Hi! I'm an aspiring frontend developer based in Thailand.
+# Hi! I'm an aspiring frontend developer based in Thailand.
+I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to pursue the frontend developer career as I'm fall in love with the beautiful design.
 
-### My current tech stack:
+## My current tech stack:
 - React + Typescript + Vite
 - HTML + CSS/TailwindCSS
 - MongoDB, Express.js, Node.js
 - Python (Rarely used nowaday)
 
-### Tech or tools that I want/plan to learn:
+## Tech or tools that I want/plan to learn:
 - Golang, C
 - Vue.js, Angular.js
-- PostgreSQL
+- PostgreSQL, Supabase, AWS
 
-### Education
+## Education
 - King Mongkut's University of Technology Thonburi - Production Engineering department (2021-2025)
 - Suankularb Wittayalai School - English Program (2018-2021)
 
