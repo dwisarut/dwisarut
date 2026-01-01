@@ -9,8 +9,8 @@ I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to 
 
 ## Tech or tools that I want/plan to learn:
 - Golang, C
-- Vue.js, Angular.js
-- PostgreSQL, Supabase, AWS
+- Vue.js, Angular.js, Svelte
+- PostgreSQL, AWS
 
 ## Education
 - King Mongkut's University of Technology Thonburi - Production Engineering department (2021-2025)
