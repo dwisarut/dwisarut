@@ -2,15 +2,15 @@
 I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to pursue the frontend developer career as I fall in love with the beautiful design.
 
 ## My current tech stack:
-- React + Typescript + Vite
+- React + TypeScript/JavaScript + Vite
 - HTML + CSS/TailwindCSS
-- MongoDB, Express.js, Node.js
-- Python (Rarely used nowaday)
+- MongoDB, PostgreSQL, Express.js, Node.js
+- Python (Rarely used nowaday so I'm a little bit rusty)
 
 ## Tech or tools that I want/plan to learn:
-- Golang, C
-- Vue.js, Angular.js, Svelte
-- PostgreSQL, AWS
+- Golang, C, or C++ if I'm good enough
+- Vue, Next, Angular, Svelte
+- AWS
 
 ## Education
 - King Mongkut's University of Technology Thonburi - Production Engineering department (2021-2025)
