@@ -9,7 +9,7 @@ I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to 
 
 ## Tech or tools that I want/plan to learn:
 - Golang, C, or C++ if I'm good enough
-- Vue, Next, Angular, Svelte
+- Vue.js, Next.js, Angular, Svelte
 - AWS
 
 ## Education
@@ -20,7 +20,6 @@ I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to 
 - 3rd place in Sustainable Bioeconomy and Smart Healthcare - KMUTT Project Day 2025
 - 2nd place in Project Contest for Sustainable Future - Engineering Expo 2025 (hosted by Engineering Institute of Thailand)
 
-While I won an award for my project (which I won't make my repo public), I'm a novice in this field. So I will focus on flooding my repo with both silly and practical projects for now.
 <!--
 **dwisarut/dwisarut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
