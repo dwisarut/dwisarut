@@ -1,5 +1,5 @@
-# Hi! I'm an aspiring frontend developer based in Thailand.
-I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to pursue the frontend developer career as I fall in love with the beautiful design.
+# Hi! I'm an aspiring software developer based in Thailand.
+I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to pursue the software developer path as I'm fascinated in how you can solve the problem with programming!
 
 ## My current tech stack:
 - React + TypeScript/JavaScript + Vite
