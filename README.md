@@ -8,9 +8,10 @@ I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to 
 - Python (Rarely used nowaday so I'm a little bit rusty)
 
 ## Tech or tools that I want/plan to learn:
-- Golang, C, or C++ if I have time
+- Golang (Currently learning it as I'm trying to move on from interpreted languages)
+- C, or C++
 - Vue.js, Next.js, Angular, Svelte
-- AWS
+- AWS, Docker, or CI/CD related stuff
 
 ## Education
 - King Mongkut's University of Technology Thonburi - Production Engineering department (2021-2025)
