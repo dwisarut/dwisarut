@@ -6,9 +6,9 @@ I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to 
 - HTML + CSS/TailwindCSS
 - MongoDB, PostgreSQL, Express.js, Node.js
 - Python (Rarely used nowaday so I'm a little bit rusty)
+- Go (Currently learning it as I'm trying to move on from interpreted languages)
 
 ## Tech or tools that I want/plan to learn:
-- Golang (Currently learning it as I'm trying to move on from interpreted languages)
 - C, or C++
 - Vue.js, Next.js, Angular, Svelte
 - AWS, Docker, or CI/CD related stuff
