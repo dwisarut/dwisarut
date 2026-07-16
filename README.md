@@ -1,12 +1,14 @@
 # Hi! I'm an aspiring software developer based in Thailand.
-I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to pursue the software developer path as I'm fascinated in how you can solve the problem with programming!
+I graduated from KMUTT with a BEng in Production Engineering. However, I wish to pursue a career as a software developer because I'm fascinated by how you can solve problems through programming instead!
+Currently pursuing a master's degree in Computer Engineering at KMUTT.
 
 ## My current tech stack:
 - React + TypeScript/JavaScript + Vite
 - HTML + CSS/TailwindCSS
 - MongoDB, PostgreSQL, Express.js, Node.js
-- Python (Rarely used nowaday so I'm a little bit rusty)
-- Go (Currently learning it as I'm trying to move on from interpreted languages)
+- Python (Rarely used nowadays, so I'm a little bit rusty)
+- Go (My most preferred language, so simple)
+- GDScript (Currently on Gamedev arc, for some reason :D)
 
 ## Tech or tools that I want/plan to learn:
 - C, or C++
@@ -14,10 +16,11 @@ I'm graduated from KMUTT with a BEng in Production Engineering, but I wished to 
 - AWS, Docker, or CI/CD related stuff
 
 ## Education
-- King Mongkut's University of Technology Thonburi - Production Engineering department (2021-2025)
+- King Mongkut's University of Technology Thonburi - MSc Computer Engineering (present)
+- King Mongkut's University of Technology Thonburi - BEng Production Engineering (2021-2025)
 - Suankularb Wittayalai School - English Program (2018-2021)
 
-## Award
+## Awards
 - 3rd place in Sustainable Bioeconomy and Smart Healthcare - KMUTT Project Day 2025
 - 2nd place in Project Contest for Sustainable Future - Engineering Expo 2025 (hosted by Engineering Institute of Thailand)
 
