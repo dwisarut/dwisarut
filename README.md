@@ -1,6 +1,7 @@
 # Hi! I'm an aspiring software developer based in Thailand.
 I graduated from KMUTT with a BEng in Production Engineering. However, I wish to pursue a career as a software developer because I'm fascinated by how you can solve problems through programming instead!
-Currently pursuing a master's degree in Computer Engineering at KMUTT.
+
+Currently pursuing a master's degree in **Computer Engineering** at KMUTT.
 
 ## My current tech stack:
 - React + TypeScript/JavaScript + Vite
@@ -22,7 +23,7 @@ Currently pursuing a master's degree in Computer Engineering at KMUTT.
 
 ## Awards
 - 3rd place in Sustainable Bioeconomy and Smart Healthcare - KMUTT Project Day 2025
-- 2nd place in Project Contest for Sustainable Future - Engineering Expo 2025 (hosted by Engineering Institute of Thailand)
+- 2nd place in Project Contest for Sustainable Future - Engineering Expo 2025 (hosted by the Engineering Institute of Thailand)
 
 <!--
 **dwisarut/dwisarut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
