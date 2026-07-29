@@ -11,9 +11,9 @@ Currently pursuing a master's degree in **Computer Engineering** at KMUTT.
 - Go (My most preferred language, so simple)
 - GDScript (Currently on Gamedev arc, for some reason :D)
 
-## Tech or tools that I want/plan to learn:
-- C, or C++
-- Vue.js, Next.js, Angular, Svelte
+## Tech or tools that I want/plan/interested in learning:
+- C, C++
+- Svelte
 - AWS, Docker, or CI/CD related stuff
 
 ## Education
