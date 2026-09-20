@@ -1,5 +1,5 @@
 # Hi! I'm an aspiring software developer based in Thailand.
-I graduated from KMUTT with a BEng in Production Engineering. However, I wish to pursue a career as a software developer because I'm fascinated by how you can solve problems through programming instead!
+I graduated from KMUTT with a BEng in Production Engineering. However, I found that solving problems with programming is more my style.
 
 Currently pursuing a master's degree in **Computer Engineering** at KMUTT.
 
@@ -9,7 +9,7 @@ Currently pursuing a master's degree in **Computer Engineering** at KMUTT.
 - MongoDB, PostgreSQL, Express.js, Node.js
 - Python (Rarely used nowadays, so I'm a little bit rusty)
 - Go (My most preferred language, so simple)
-- GDScript (Currently on Gamedev arc, for some reason :D)
+- GDScript (Game development interests me, so I'm leaning a bit on that)
 
 ## Tech or tools that I want/plan/interested in learning:
 - C, C++
@@ -17,7 +17,7 @@ Currently pursuing a master's degree in **Computer Engineering** at KMUTT.
 - AWS, Docker, or CI/CD related stuff
 
 ## Education
-- King Mongkut's University of Technology Thonburi - MSc Computer Engineering (present)
+- King Mongkut's University of Technology Thonburi - MSc Computer Engineering (2026-present)
 - King Mongkut's University of Technology Thonburi - BEng Production Engineering (2021-2025)
 - Suankularb Wittayalai School - English Program (2018-2021)
 
