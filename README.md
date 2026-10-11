@@ -1,4 +1,4 @@
-# Hi! I'm an aspiring software developer based in Thailand.
+# Hi! I'm Software Engineer based in Thailand.
 I graduated from KMUTT with a BEng in Production Engineering. However, I found that solving problems with programming is more my style.
 
 Currently pursuing a master's degree in <ins>**Computer Engineering**</ins> at KMUTT.
