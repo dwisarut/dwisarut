@@ -6,24 +6,25 @@ Currently pursuing a master's degree in **Computer Engineering** at KMUTT.
 ## My current tech stack:
 - React + TypeScript/JavaScript + Vite
 - HTML + CSS/TailwindCSS
-- MongoDB, PostgreSQL, Express.js, Node.js
-- Python (Rarely used nowadays, so I'm a little bit rusty)
-- Go (My most preferred language, so simple)
+- MongoDB, PostgreSQL, Express, Node
+- Python
+- Go (My most preferred language, fast and simple)
 - GDScript (Game development interests me, so I'm leaning a bit on that)
 
-## Tech or tools that I want/plan/interested in learning:
+## Tech/tools/topic that I want to learn or planned to do:
 - C, C++
-- Svelte
 - AWS, Docker, or CI/CD related stuff
+- Finance related project (e.g, Portfolio Optimizer)
+- Graphical programming and Simulation
 
 ## Education
-- King Mongkut's University of Technology Thonburi - MSc Computer Engineering (2026-present)
-- King Mongkut's University of Technology Thonburi - BEng Production Engineering (2021-2025)
-- Suankularb Wittayalai School - English Program (2018-2021)
+- **KMUTT** - MSc Computer Engineering (2026-present)
+- **KMUTT** - BEng Production Engineering (2021-2025)
+- **Suankularb Wittayalai School** - English Program (2018-2021)
 
 ## Awards
-- 3rd place in Sustainable Bioeconomy and Smart Healthcare - KMUTT Project Day 2025
 - 2nd place in Project Contest for Sustainable Future - Engineering Expo 2025 (hosted by the Engineering Institute of Thailand)
+- 3rd place in Sustainable Bioeconomy and Smart Healthcare - KMUTT Project Day 2025
 
 <!--
 **dwisarut/dwisarut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
