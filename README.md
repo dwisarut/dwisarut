@@ -11,9 +11,8 @@ Currently pursuing a master's degree in <ins>**Computer Engineering**</ins> at K
 - Go (My most preferred language, fast and simple)
 - GDScript (Game development interests me, so I'm leaning a bit on that)
 
-## Tech/tools/topic that I want to learn or planned to do:
-- C, C++
-- AWS, Docker, or CI/CD related stuff
+## My interests:
+- Devops
 - Finance related project (e.g, Portfolio Optimizer)
 - Graphical programming and Simulation
 
